@@ -2,7 +2,7 @@
 
 # Vérifier si au moins un argument (nom d'utilisateur) a été fourni
 if [ "$#" -lt 1 ]; then
-    echo "Veuillez taper le nom d'un utilisateur à créer."
+    echo "Veuillez taper le nom d'un utilisateur à créer. Exemple: ./addUsers.sh Salomé"
     exit 1
 fi
 
