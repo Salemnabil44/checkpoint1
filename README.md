@@ -1,9 +1,12 @@
 Exercice 1.1
+
 ![Partitions](https://github.com/Salemnabil44/checkpoint1/assets/161028838/6bf8dd97-4ca4-4f2c-9dc9-e9f7c4aa7ce4)
 ![Formatages](https://github.com/Salemnabil44/checkpoint1/assets/161028838/87ca1ada-e114-44a1-a460-d04ed23fdad0)
 ![Listing](https://github.com/Salemnabil44/checkpoint1/assets/161028838/7ad8d3cb-74d7-4ab1-b32e-6a7edf2ff5c6)
 
+
 Exercice 1.2
+
 ![UUID](https://github.com/Salemnabil44/checkpoint1/assets/161028838/a34c45c6-a713-41ba-9c2b-9dc4f604c902)
 ![exercice 1 2](https://github.com/Salemnabil44/checkpoint1/assets/161028838/db8c9f4f-ab27-47e0-86d2-6512cfe4897a)
 
